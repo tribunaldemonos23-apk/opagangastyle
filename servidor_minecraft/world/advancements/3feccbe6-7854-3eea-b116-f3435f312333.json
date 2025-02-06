@@ -1476,6 +1476,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2025-02-06 04:29:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/stone_pickaxe": {
     "criteria": {
       "has_cobblestone": "2025-02-05 05:59:36 +0000"
@@ -1551,6 +1557,12 @@
   "dungeons_arise:wda_root": {
     "criteria": {
       "WDA": "2025-02-05 05:54:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_oak_wood": {
+    "criteria": {
+      "has_log": "2025-02-06 04:33:19 +0000"
     },
     "done": true
   },
@@ -2475,15 +2487,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/transportation/activator_rail": {
-    "criteria": {
-      "has_rail": "2025-02-05 22:38:51 +0000"
-    },
-    "done": true
-  },
   "minecolonies:recipes/minecolonies/supplycampdeployer": {
     "criteria": {
       "has_chest": "2025-02-05 22:36:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/activator_rail": {
+    "criteria": {
+      "has_rail": "2025-02-05 22:38:51 +0000"
     },
     "done": true
   },
