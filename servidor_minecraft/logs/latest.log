@@ -2115,3 +2115,15 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [06Feb2025 21:37:44.280] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: fueunrandom joined the game
 [06Feb2025 21:37:44.280] [Server thread/INFO] [tac/]: PENDING
 [06Feb2025 21:37:45.147] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of d1e0c6ce-4c74-347e-b5d2-1443e3f0d9ee was loaded
+[06Feb2025 21:37:51.950] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: fueunrandom lost connection: Disconnected
+[06Feb2025 21:37:51.950] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: fueunrandom left the game
+[06Feb2025 21:37:51.951] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of d1e0c6ce-4c74-347e-b5d2-1443e3f0d9ee was unloaded
+[06Feb2025 21:44:24.870] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@26dd635
+[06Feb2025 21:44:24.897] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: g00rdopajin[/100.75.147.55:52670] logged in with entity id 1738 at (-92.88087076174777, 62.07326483655496, 177.13597118642534)
+[06Feb2025 21:44:24.921] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: g00rdopajin joined the game
+[06Feb2025 21:44:24.923] [Server thread/INFO] [tac/]: PENDING
+[06Feb2025 21:44:25.952] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 5058611e-a540-312b-b4cd-03297193531a was loaded
+[06Feb2025 21:45:14.475] [Server thread/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: Disconnecting com.mojang.authlib.GameProfile@334a9c75[id=<null>,name=Giggie,properties={},legacy=false] (/100.126.143.77:59545): Took too long to log in
+[06Feb2025 21:45:14.514] [Server thread/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: com.mojang.authlib.GameProfile@334a9c75[id=<null>,name=Giggie,properties={},legacy=false] (/100.126.143.77:59545) lost connection: Took too long to log in
+[06Feb2025 21:46:54.513] [Server thread/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: Disconnecting com.mojang.authlib.GameProfile@2cbbff42[id=<null>,name=Giggie,properties={},legacy=false] (/100.126.143.77:59584): Took too long to log in
+[06Feb2025 21:46:54.563] [Server thread/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: com.mojang.authlib.GameProfile@2cbbff42[id=<null>,name=Giggie,properties={},legacy=false] (/100.126.143.77:59584) lost connection: Took too long to log in
