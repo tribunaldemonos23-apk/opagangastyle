@@ -281,6 +281,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_ingot_from_blasting": {
+    "criteria": {
+      "has_iron_ore": "2025-02-06 06:09:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/spruce_boat": {
     "criteria": {
       "in_water": "2025-02-06 04:47:20 +0000"
@@ -618,6 +624,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_ingot": {
+    "criteria": {
+      "has_iron_ore": "2025-02-06 06:09:57 +0000"
+    },
+    "done": true
+  },
   "mca:recipes/building_blocks/rose_gold_block": {
     "criteria": {
       "has_item": "2025-02-06 04:37:03 +0000"
@@ -662,6 +674,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:mountains": "2025-02-06 06:09:45 +0000",
       "minecraft:taiga": "2025-02-06 04:52:40 +0000",
       "minecraft:taiga_hills": "2025-02-06 04:37:03 +0000",
       "minecraft:deep_lukewarm_ocean": "2025-02-06 04:47:15 +0000",
@@ -857,6 +870,12 @@
     },
     "done": true
   },
+  "create:recipes/create.base/blasting/copper_ingot_from_ore": {
+    "criteria": {
+      "has_item": "2025-02-06 06:10:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/baked_potato_from_smoking": {
     "criteria": {
       "has_potato": "2025-02-06 06:07:26 +0000"
@@ -954,6 +973,12 @@
       "village_snowy": "2025-02-06 04:37:03 +0000",
       "village_desert": "2025-02-06 04:37:03 +0000",
       "village_plains": "2025-02-06 04:37:03 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/smelting/copper_ingot_from_ore": {
+    "criteria": {
+      "has_item": "2025-02-06 06:10:28 +0000"
     },
     "done": true
   },
