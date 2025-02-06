@@ -281,6 +281,12 @@
     },
     "done": true
   },
+  "betterdungeons:all_dungeons": {
+    "criteria": {
+      "in_better_monster_room": "2025-02-06 07:19:34 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/redstone/dispenser": {
     "criteria": {
       "has_bow": "2025-02-05 20:47:56 +0000"
@@ -1577,6 +1583,12 @@
     },
     "done": true
   },
+  "betterdungeons:small_dungeon": {
+    "criteria": {
+      "in_better_monster_room": "2025-02-06 07:19:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/spruce_pressure_plate": {
     "criteria": {
       "has_planks": "2025-02-05 19:54:55 +0000"
@@ -1714,6 +1726,12 @@
       "has_smooth_sandstone": "2025-02-06 03:21:10 +0000"
     },
     "done": true
+  },
+  "mca:baby_dropped": {
+    "criteria": {
+      "baby_drop_attempts": "2025-02-06 06:57:27 +0000"
+    },
+    "done": false
   },
   "securitycraft:recipes/securitycraft/reinforced_diorite": {
     "criteria": {

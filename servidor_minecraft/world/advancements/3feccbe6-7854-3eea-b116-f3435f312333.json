@@ -347,6 +347,12 @@
     },
     "done": true
   },
+  "dungeons_arise:find_small_prairie_house": {
+    "criteria": {
+      "location0": "2025-02-06 09:36:03 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/kinetics/metal_bracket": {
     "criteria": {
       "has_item": "2025-02-06 06:15:13 +0000"
@@ -439,7 +445,8 @@
   },
   "dungeons_enhanced:ambitious_explorer": {
     "criteria": {
-      "entered_dungeon_variant": "2025-02-05 08:04:40 +0000"
+      "entered_dungeon_variant": "2025-02-05 08:04:40 +0000",
+      "entered_witch_tower": "2025-02-06 08:36:22 +0000"
     },
     "done": false
   },
@@ -518,6 +525,12 @@
   "create:recipes/create.palettes/andesite_bricks_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-02-05 07:13:41 +0000"
+    },
+    "done": true
+  },
+  "simpleplanes:recipes/plane": {
+    "criteria": {
+      "in_fire": "2025-02-06 09:42:36 +0000"
     },
     "done": true
   },
@@ -659,6 +672,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/quartz_stairs": {
+    "criteria": {
+      "has_quartz_pillar": "2025-02-06 08:48:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_andesite_slab_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-02-05 07:13:41 +0000"
@@ -710,6 +729,12 @@
   "minecraft:adventure/root": {
     "criteria": {
       "killed_something": "2025-02-05 06:01:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_bed": {
+    "criteria": {
+      "has_black_wool": "2025-02-06 09:31:23 +0000"
     },
     "done": true
   },
@@ -775,6 +800,12 @@
   "create:recipes/create.base/crafting/kinetics/water_wheel": {
     "criteria": {
       "has_item": "2025-02-06 06:15:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_wood": {
+    "criteria": {
+      "has_log": "2025-02-06 08:35:10 +0000"
     },
     "done": true
   },
@@ -911,6 +942,12 @@
   "securitycraft:recipes/securitycraft/universal_block_modifier": {
     "criteria": {
       "has_redstone": "2025-02-05 21:40:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
+    "criteria": {
+      "has_cod": "2025-02-06 08:48:52 +0000"
     },
     "done": true
   },
@@ -1088,9 +1125,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/light_gray_bed": {
+    "criteria": {
+      "has_light_gray_wool": "2025-02-06 09:37:55 +0000"
+    },
+    "done": true
+  },
   "mca:recipes/misc/rose_gold_ingot_smelting": {
     "criteria": {
       "has_item": "2025-02-05 05:54:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_slab": {
+    "criteria": {
+      "has_quartz_pillar": "2025-02-06 08:48:28 +0000"
     },
     "done": true
   },
@@ -1127,6 +1176,12 @@
   "create:recipes/create.base/crafting/kinetics/cuckoo_clock": {
     "criteria": {
       "has_item": "2025-02-06 06:15:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_yellow_flower": "2025-02-06 07:35:46 +0000"
     },
     "done": true
   },
@@ -1187,6 +1242,12 @@
   "minecraft:recipes/building_blocks/gray_concrete_powder": {
     "criteria": {
       "has_sand": "2025-02-05 06:05:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_banner": {
+    "criteria": {
+      "has_light_gray_wool": "2025-02-06 09:37:55 +0000"
     },
     "done": true
   },
@@ -1268,6 +1329,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/black_banner": {
+    "criteria": {
+      "has_black_wool": "2025-02-06 09:31:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/tripwire_hook": {
     "criteria": {
       "has_string": "2025-02-05 22:01:38 +0000"
@@ -1289,6 +1356,18 @@
   "minecraft:recipes/misc/bone_meal": {
     "criteria": {
       "has_bone": "2025-02-05 05:55:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_quartz_block": {
+    "criteria": {
+      "has_quartz_pillar": "2025-02-06 08:48:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_planks": {
+    "criteria": {
+      "has_logs": "2025-02-06 08:35:10 +0000"
     },
     "done": true
   },
@@ -1496,6 +1575,12 @@
     },
     "done": true
   },
+  "dungeons_arise:find_wishing_well": {
+    "criteria": {
+      "location0": "2025-02-06 09:44:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/golden_pickaxe": {
     "criteria": {
       "has_gold_ingot": "2025-02-05 08:31:04 +0000"
@@ -1606,6 +1691,12 @@
   "minecraft:recipes/combat/stone_sword": {
     "criteria": {
       "has_cobblestone": "2025-02-05 05:59:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_carpet": {
+    "criteria": {
+      "has_light_gray_wool": "2025-02-06 09:37:55 +0000"
     },
     "done": true
   },
@@ -1759,6 +1850,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_cod_from_smoking": {
+    "criteria": {
+      "has_cod": "2025-02-06 08:48:52 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/sophisticatedbackpacks/auto_blasting_upgrade": {
     "criteria": {
       "has_blasting_upgrade": "2025-02-05 05:54:51 +0000"
@@ -1776,6 +1873,12 @@
       "has_stick": "2025-02-05 05:59:27 +0000"
     },
     "done": true
+  },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:soul_sand_valley": "2025-02-06 08:19:04 +0000"
+    },
+    "done": false
   },
   "create:recipes/create.base/crafting/kinetics/hand_crank": {
     "criteria": {
@@ -1891,6 +1994,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/white_dye_from_lily_of_the_valley": {
+    "criteria": {
+      "has_white_flower": "2025-02-06 09:24:51 +0000"
+    },
+    "done": true
+  },
   "minecolonies:recipes/combat/chainmailhelmet": {
     "criteria": {
       "has_iron": "2025-02-05 07:50:03 +0000"
@@ -1930,6 +2039,12 @@
   "immersiveengineering:recipes/immersiveengineering/crafting/windmill_sail": {
     "criteria": {
       "has_hemp_fabric": "2025-02-05 06:16:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_pillar": {
+    "criteria": {
+      "has_quartz_pillar": "2025-02-06 08:48:28 +0000"
     },
     "done": true
   },
@@ -1996,6 +2111,12 @@
   "securitycraft:recipes/securitycraft/reinforced_spruce_fence": {
     "criteria": {
       "has_stick": "2025-02-05 05:59:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2025-02-06 08:19:04 +0000"
     },
     "done": true
   },
@@ -2211,11 +2332,13 @@
       "sweet_berries": "2025-02-05 21:38:02 +0000",
       "cooked_beef": "2025-02-05 06:09:39 +0000",
       "baked_potato": "2025-02-05 21:42:03 +0000",
+      "porkchop": "2025-02-06 09:07:34 +0000",
       "potato": "2025-02-05 05:56:54 +0000",
       "bread": "2025-02-05 06:58:42 +0000",
       "golden_apple": "2025-02-05 08:12:03 +0000",
       "beetroot": "2025-02-05 08:06:09 +0000",
-      "cooked_chicken": "2025-02-05 06:02:31 +0000"
+      "cooked_chicken": "2025-02-05 06:02:31 +0000",
+      "cod": "2025-02-06 08:55:32 +0000"
     },
     "done": false
   },
@@ -2240,6 +2363,12 @@
   "create:recipes/create.palettes/diorite_pillar_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-02-05 07:18:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod": {
+    "criteria": {
+      "has_cod": "2025-02-06 08:48:52 +0000"
     },
     "done": true
   },
@@ -2735,6 +2864,12 @@
     },
     "done": true
   },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2025-02-06 08:19:04 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/granite_bricks_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-02-05 06:00:05 +0000"
@@ -2783,6 +2918,12 @@
     },
     "done": true
   },
+  "valhelsia_structures:recipes/valhelsia_structures_main/birch_post": {
+    "criteria": {
+      "has_item": "2025-02-06 08:35:10 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/materials/rose_quartz": {
     "criteria": {
       "has_item": "2025-02-05 21:40:39 +0000"
@@ -2828,6 +2969,12 @@
   "minecraft:recipes/combat/diamond_helmet": {
     "criteria": {
       "has_diamond": "2025-02-05 07:50:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/snow": {
+    "criteria": {
+      "has_snowball": "2025-02-06 08:11:27 +0000"
     },
     "done": true
   },
@@ -2987,6 +3134,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/nether_brick": {
+    "criteria": {
+      "has_netherrack": "2025-02-06 08:24:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/arrow": {
     "criteria": {
       "has_feather": "2025-02-05 06:01:48 +0000"
@@ -3008,6 +3161,12 @@
   "ironchest:recipes/ironchest/chests/iron_gold_chest": {
     "criteria": {
       "has_gold_ingot": "2025-02-05 08:31:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_carpet": {
+    "criteria": {
+      "has_black_wool": "2025-02-06 09:31:23 +0000"
     },
     "done": true
   },
@@ -3368,6 +3527,12 @@
   "minecraft:recipes/transportation/powered_rail": {
     "criteria": {
       "has_rail": "2025-02-05 22:38:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/snow_block": {
+    "criteria": {
+      "has_snowball": "2025-02-06 08:11:27 +0000"
     },
     "done": true
   },

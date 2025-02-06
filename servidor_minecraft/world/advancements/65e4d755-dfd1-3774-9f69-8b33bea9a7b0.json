@@ -350,7 +350,9 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_porkchop": "2025-02-06 06:16:59 +0000",
-      "bread": "2025-02-06 06:08:16 +0000"
+      "bread": "2025-02-06 06:08:16 +0000",
+      "salmon": "2025-02-06 06:30:56 +0000",
+      "cod": "2025-02-06 06:37:42 +0000"
     },
     "done": false
   },
@@ -768,6 +770,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
+    "criteria": {
+      "has_salmon": "2025-02-06 06:29:26 +0000"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/immersiveengineering/crafting/plate_iron_hammering": {
     "criteria": {
       "has_iron_ingot": "2025-02-06 06:08:37 +0000"
@@ -1063,6 +1071,12 @@
   "minecraft:recipes/building_blocks/black_wool": {
     "criteria": {
       "has_white_wool": "2025-02-06 06:18:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon_from_smoking": {
+    "criteria": {
+      "has_salmon": "2025-02-06 06:29:26 +0000"
     },
     "done": true
   },
@@ -1387,6 +1401,12 @@
   "minecraft:story/iron_tools": {
     "criteria": {
       "iron_pickaxe": "2025-02-06 06:08:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon": {
+    "criteria": {
+      "has_salmon": "2025-02-06 06:29:26 +0000"
     },
     "done": true
   },
@@ -1804,6 +1824,12 @@
   "minecraft:story/smelt_iron": {
     "criteria": {
       "iron": "2025-02-06 06:08:37 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/lectern": {
+    "criteria": {
+      "bestiary": "2025-02-06 06:30:45 +0000"
     },
     "done": true
   },
