@@ -2949,15 +2949,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/polished_granite_stairs_from_granite_stonecutting": {
-    "criteria": {
-      "has_granite": "2025-02-06 08:28:08 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/green_carpet_from_white_carpet": {
     "criteria": {
       "has_white_carpet": "2025-02-06 07:25:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite_stairs_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-02-06 08:28:08 +0000"
     },
     "done": true
   },
@@ -3369,15 +3369,15 @@
     },
     "done": true
   },
-  "create:recipes/create.palettes/paved_granite_from_granite_stonecutting": {
-    "criteria": {
-      "has_granite": "2025-02-06 08:28:08 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/brown_carpet_from_white_carpet": {
     "criteria": {
       "has_white_carpet": "2025-02-06 07:25:44 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/paved_granite_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-02-06 08:28:08 +0000"
     },
     "done": true
   },
