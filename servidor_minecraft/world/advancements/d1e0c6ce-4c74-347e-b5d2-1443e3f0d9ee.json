@@ -2339,6 +2339,7 @@
       "baked_potato": "2025-02-05 23:18:04 +0000",
       "beef": "2025-02-06 02:30:48 +0000",
       "porkchop": "2025-02-05 23:26:17 +0000",
+      "apple": "2025-02-06 22:15:55 +0000",
       "potato": "2025-02-06 04:49:57 +0000",
       "pumpkin_pie": "2025-02-05 20:15:38 +0000",
       "mutton": "2025-02-06 04:42:09 +0000",
@@ -3588,6 +3589,12 @@
   "immersiveengineering:recipes/immersiveengineering/crafting/light_engineering": {
     "criteria": {
       "has_component_iron": "2025-02-05 21:41:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2025-02-06 22:15:28 +0000"
     },
     "done": true
   },
