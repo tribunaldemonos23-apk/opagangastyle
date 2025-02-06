@@ -2397,3 +2397,17 @@ java.lang.NullPointerException: null
 [06Feb2025 05:22:35.402] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2388ms or 47 ticks behind
 [06Feb2025 05:25:50.276] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <fueunrandom> -849,60 78,94 -1260,48
 [06Feb2025 05:27:39.034] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2020ms or 40 ticks behind
+[06Feb2025 05:29:26.907] [Server thread/INFO] [tac/]: PENDING
+[06Feb2025 05:30:13.109] [Server thread/INFO] [tac/]: PENDING
+[06Feb2025 05:32:09.448] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <fueunrandom> el papu dormilon
+[06Feb2025 05:32:11.541] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <fueunrandom> zzzzzzz
+[06Feb2025 05:33:31.230] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntityMCA['Cameron'/22688, l='ServerLevel[world]', x=-916.55, y=92.56, z=-1268.31] died, message: 'Cameron was burnt to a crisp whilst fighting Zombie'
+[06Feb2025 05:35:03.864] [Server thread/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: Disconnecting com.mojang.authlib.GameProfile@1283e3c7[id=<null>,name=Giggie,properties={},legacy=false] (/100.126.143.77:58805): Took too long to log in
+[06Feb2025 05:35:03.900] [Server thread/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: com.mojang.authlib.GameProfile@1283e3c7[id=<null>,name=Giggie,properties={},legacy=false] (/100.126.143.77:58805) lost connection: Took too long to log in
+[06Feb2025 05:36:02.917] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@787fbffe
+[06Feb2025 05:36:02.938] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Giggie[/100.126.143.77:58811] logged in with entity id 30585 at (-108.30000001192093, 64.0, -249.11228944274197)
+[06Feb2025 05:36:02.951] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Giggie joined the game
+[06Feb2025 05:36:02.951] [Server thread/INFO] [tac/]: PENDING
+[06Feb2025 05:36:20.596] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 5086d621-cc19-3853-b629-86c431f7e494 was loaded
+[06Feb2025 05:37:40.366] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2052ms or 41 ticks behind
+[06Feb2025 05:38:37.003] [Server thread/INFO] [tac/]: PENDING
