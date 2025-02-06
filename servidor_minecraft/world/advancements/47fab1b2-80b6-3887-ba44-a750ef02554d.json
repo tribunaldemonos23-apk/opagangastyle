@@ -275,6 +275,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/dried_kelp_from_smoking": {
+    "criteria": {
+      "has_kelp": "2025-02-06 05:38:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/hopper": {
     "criteria": {
       "has_iron_ingot": "2025-02-05 06:09:26 +0000"
@@ -518,6 +524,12 @@
   "minecraft:recipes/decorations/lime_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2025-02-06 05:31:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_smelting": {
+    "criteria": {
+      "has_kelp": "2025-02-06 05:38:59 +0000"
     },
     "done": true
   },
@@ -1214,6 +1226,12 @@
   "minecraft:recipes/building_blocks/light_gray_stained_glass": {
     "criteria": {
       "has_glass": "2025-02-06 05:31:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
+    "criteria": {
+      "has_kelp": "2025-02-06 05:38:59 +0000"
     },
     "done": true
   },
@@ -3005,6 +3023,12 @@
     },
     "done": true
   },
+  "dungeons_enhanced:ambitious_explorer": {
+    "criteria": {
+      "entered_dungeon_variant": "2025-02-06 05:43:06 +0000"
+    },
+    "done": false
+  },
   "create:recipes/create.palettes/granite_pillar_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-02-05 06:00:11 +0000"
@@ -3380,6 +3404,12 @@
     },
     "done": true
   },
+  "dungeons_enhanced:root": {
+    "criteria": {
+      "entered_dungeon_variant": "2025-02-06 05:43:06 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/sophisticatedbackpacks/iron_backpack": {
     "criteria": {
       "has_the_recipe": "2025-02-05 23:07:24 +0000"
@@ -3733,6 +3763,7 @@
       "minecraft:jungle_hills": "2025-02-05 07:30:40 +0000",
       "minecraft:beach": "2025-02-05 06:10:40 +0000",
       "minecraft:river": "2025-02-05 06:00:54 +0000",
+      "minecraft:lukewarm_ocean": "2025-02-06 05:39:06 +0000",
       "minecraft:wooded_mountains": "2025-02-05 21:53:43 +0000",
       "minecraft:wooded_hills": "2025-02-05 23:03:33 +0000",
       "minecraft:plains": "2025-02-05 22:34:22 +0000"

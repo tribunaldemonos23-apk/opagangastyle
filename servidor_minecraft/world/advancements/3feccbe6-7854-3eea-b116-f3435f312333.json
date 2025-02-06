@@ -329,6 +329,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/secret_jungle_sign_item": {
+    "criteria": {
+      "has_sign": "2025-02-06 05:37:51 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/paved_andesite_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-02-05 07:13:41 +0000"
@@ -368,6 +374,12 @@
   "create:recipes/create.base/crafting/kinetics/yellow_seat": {
     "criteria": {
       "has_wool": "2025-02-05 06:01:37 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/secret_spruce_sign_item": {
+    "criteria": {
+      "has_sign": "2025-02-06 05:37:51 +0000"
     },
     "done": true
   },
@@ -917,6 +929,12 @@
   "minecraft:recipes/redstone/jungle_pressure_plate": {
     "criteria": {
       "has_planks": "2025-02-05 07:35:41 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/secret_warped_sign_item": {
+    "criteria": {
+      "has_sign": "2025-02-06 05:37:51 +0000"
     },
     "done": true
   },
@@ -2633,9 +2651,21 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/secret_dark_oak_sign_item": {
+    "criteria": {
+      "has_sign": "2025-02-06 05:37:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cyan_concrete_powder": {
     "criteria": {
       "has_sand": "2025-02-05 06:05:10 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/secret_crimson_sign_item": {
+    "criteria": {
+      "has_sign": "2025-02-06 05:37:51 +0000"
     },
     "done": true
   },
@@ -3071,6 +3101,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/secret_acacia_sign_item": {
+    "criteria": {
+      "has_sign": "2025-02-06 05:37:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_ingot": {
     "criteria": {
       "has_iron_ore": "2025-02-05 06:08:17 +0000"
@@ -3287,6 +3323,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/secret_birch_sign_item": {
+    "criteria": {
+      "has_sign": "2025-02-06 05:37:51 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.base/smelting/copper_ingot_from_ore": {
     "criteria": {
       "has_item": "2025-02-05 08:17:09 +0000"
@@ -3362,6 +3404,12 @@
   "minecraft:recipes/building_blocks/mossy_cobblestone_stairs": {
     "criteria": {
       "has_mossy_cobblestone": "2025-02-05 08:04:35 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/secret_sign_item": {
+    "criteria": {
+      "has_sign": "2025-02-06 05:37:51 +0000"
     },
     "done": true
   },

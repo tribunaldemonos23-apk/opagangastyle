@@ -353,6 +353,12 @@
     },
     "done": true
   },
+  "dungeons_arise:find_small_prairie_house": {
+    "criteria": {
+      "location0": "2025-02-06 05:41:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/hopper": {
     "criteria": {
       "has_iron_ingot": "2025-02-05 22:00:13 +0000"
@@ -646,6 +652,12 @@
   "mca:chores": {
     "criteria": {
       "baby": "2025-02-06 00:53:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/cauldron": {
+    "criteria": {
+      "has_water_bucket": "2025-02-06 05:46:53 +0000"
     },
     "done": true
   },
