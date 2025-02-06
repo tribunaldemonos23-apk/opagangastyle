@@ -269,6 +269,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-02-06 22:03:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_ingot_from_blasting": {
     "criteria": {
       "has_iron_ore": "2025-02-05 22:34:03 +0000"
@@ -416,6 +422,12 @@
   "securitycraft:recipes/securitycraft/taser": {
     "criteria": {
       "has_redstone": "2025-02-06 03:25:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-02-06 22:03:06 +0000"
     },
     "done": true
   },
@@ -745,6 +757,12 @@
     },
     "done": true
   },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2025-02-06 22:03:55 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/sophisticatedbackpacks/smoking_upgrade_from_smelting_upgrade": {
     "criteria": {
       "has_smelting_upgrade": "2025-02-05 19:46:43 +0000"
@@ -908,6 +926,7 @@
       "minecraft:vindicator": "2025-02-05 22:04:32 +0000",
       "minecraft:magma_cube": "2025-02-06 03:07:32 +0000",
       "minecraft:spider": "2025-02-05 20:05:01 +0000",
+      "minecraft:piglin_brute": "2025-02-06 22:07:24 +0000",
       "minecraft:creeper": "2025-02-05 20:16:35 +0000",
       "minecraft:phantom": "2025-02-06 00:55:57 +0000",
       "minecraft:witch": "2025-02-06 00:48:27 +0000",
@@ -1286,6 +1305,12 @@
   "minecraft:recipes/misc/red_dye_from_poppy": {
     "criteria": {
       "has_red_flower": "2025-02-06 03:42:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_wood": {
+    "criteria": {
+      "has_log": "2025-02-06 22:04:44 +0000"
     },
     "done": true
   },
@@ -1979,6 +2004,12 @@
     },
     "done": true
   },
+  "minecraft:nether/find_bastion": {
+    "criteria": {
+      "bastion": "2025-02-06 22:07:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/cobblestone_wall_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2025-02-05 19:57:17 +0000"
@@ -2104,6 +2135,12 @@
       "has_bamboo": "2025-02-05 21:30:44 +0000"
     },
     "done": true
+  },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:warped_forest": "2025-02-06 22:06:39 +0000"
+    },
+    "done": false
   },
   "create:recipes/create.base/crafting/materials/copper_nugget_from_decompacting": {
     "criteria": {
@@ -2369,6 +2406,12 @@
     },
     "done": true
   },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2025-02-06 22:06:39 +0000"
+    },
+    "done": true
+  },
   "iceandfire:iceandfire/bestiary": {
     "criteria": {
       "bestiary": "2025-02-05 20:43:19 +0000"
@@ -2606,6 +2649,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "sweet_berries": "2025-02-05 19:58:58 +0000",
+      "cooked_beef": "2025-02-06 22:00:32 +0000",
       "baked_potato": "2025-02-06 00:41:21 +0000",
       "bread": "2025-02-05 20:04:49 +0000",
       "suspicious_stew": "2025-02-05 22:06:26 +0000",
@@ -2777,6 +2821,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-02-06 22:03:06 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/diorite_pillar": {
     "criteria": {
       "has_diorite": "2025-02-05 23:03:56 +0000"
@@ -2822,6 +2872,12 @@
   "minecraft:recipes/combat/bow": {
     "criteria": {
       "has_string": "2025-02-05 20:52:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-02-06 22:03:06 +0000"
     },
     "done": true
   },
@@ -3215,6 +3271,12 @@
     },
     "done": true
   },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2025-02-06 22:06:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/green_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2025-02-05 22:28:28 +0000"
@@ -3419,6 +3481,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_stone_bricks": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-02-06 22:03:06 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/keycard_lv2": {
     "criteria": {
       "has_iron": "2025-02-05 20:24:04 +0000"
@@ -3503,6 +3571,12 @@
     },
     "done": true
   },
+  "valhelsia_structures:recipes/valhelsia_structures_main/jungle_post": {
+    "criteria": {
+      "has_item": "2025-02-06 22:04:44 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/kinetics/light_blue_seat": {
     "criteria": {
       "has_wool": "2025-02-05 22:28:05 +0000"
@@ -3560,6 +3634,12 @@
   "securitycraft:recipes/securitycraft/keycard_lv3": {
     "criteria": {
       "has_iron": "2025-02-05 20:24:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/nether_brick": {
+    "criteria": {
+      "has_netherrack": "2025-02-06 22:06:57 +0000"
     },
     "done": true
   },
@@ -3638,6 +3718,12 @@
   "minecraft:recipes/building_blocks/blue_concrete_powder": {
     "criteria": {
       "has_sand": "2025-02-06 03:13:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-02-06 22:03:06 +0000"
     },
     "done": true
   },
@@ -4304,6 +4390,12 @@
   "securitycraft:recipes/securitycraft/secret_sign_item": {
     "criteria": {
       "has_sign": "2025-02-05 23:39:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-02-06 22:03:06 +0000"
     },
     "done": true
   },
