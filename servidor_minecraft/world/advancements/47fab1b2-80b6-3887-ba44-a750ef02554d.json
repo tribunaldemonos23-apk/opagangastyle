@@ -95,6 +95,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/observer": {
+    "criteria": {
+      "has_quartz": "2025-02-06 05:06:49 +0000"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/immersiveengineering/crafting/concrete": {
     "criteria": {
       "has_clay": "2025-02-06 02:00:30 +0000"
@@ -773,6 +779,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/comparator": {
+    "criteria": {
+      "has_quartz": "2025-02-06 05:06:49 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/limestone_cobblestone_wall_from_limestone_cobblestone_stonecutting": {
     "criteria": {
       "has_limestone_cobblestone": "2025-02-05 06:59:37 +0000"
@@ -872,6 +884,12 @@
   "ironchest:recipes/ironchest/chests/copper_iron_chest": {
     "criteria": {
       "has_item": "2025-02-05 06:09:26 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_structures:recipes/valhelsia_structures_main/soul_brazier": {
+    "criteria": {
+      "has_item": "2025-02-06 05:07:34 +0000"
     },
     "done": true
   },
@@ -997,6 +1015,12 @@
   "create:recipes/create.base/crafting/kinetics/water_wheel": {
     "criteria": {
       "has_item": "2025-02-06 03:08:37 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/smelting/scoria": {
+    "criteria": {
+      "has_item": "2025-02-06 05:07:34 +0000"
     },
     "done": true
   },
@@ -1493,6 +1517,12 @@
   "securitycraft:recipes/securitycraft/smart_module": {
     "criteria": {
       "has_iron": "2025-02-05 06:09:26 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/reinforced_observer": {
+    "criteria": {
+      "has_quartz": "2025-02-06 05:06:49 +0000"
     },
     "done": true
   },
@@ -2185,6 +2215,12 @@
     },
     "done": true
   },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:soul_sand_valley": "2025-02-06 05:06:39 +0000"
+    },
+    "done": false
+  },
   "create:recipes/create.base/crafting/materials/copper_nugget_from_decompacting": {
     "criteria": {
       "has_item": "2025-02-05 07:54:08 +0000"
@@ -2347,6 +2383,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/soul_torch": {
+    "criteria": {
+      "has_soul_sand": "2025-02-06 05:07:34 +0000"
+    },
+    "done": true
+  },
   "minecolonies:recipes/combat/chainmailhelmet": {
     "criteria": {
       "has_iron": "2025-02-05 06:09:26 +0000"
@@ -2431,6 +2473,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/reinforced_granite": {
+    "criteria": {
+      "has_quartz": "2025-02-06 05:06:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/writable_book": {
     "criteria": {
       "has_book": "2025-02-05 20:42:35 +0000"
@@ -2470,6 +2518,12 @@
   "securitycraft:recipes/securitycraft/reinforced_spruce_fence": {
     "criteria": {
       "has_stick": "2025-02-05 05:56:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2025-02-06 05:06:39 +0000"
     },
     "done": true
   },
@@ -2674,6 +2728,12 @@
   "dungeons_arise:find_abandoned_temple": {
     "criteria": {
       "location0": "2025-02-05 20:59:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite": {
+    "criteria": {
+      "has_quartz": "2025-02-06 05:06:49 +0000"
     },
     "done": true
   },
@@ -2980,6 +3040,12 @@
   "tac:recipes/tac/module_item": {
     "criteria": {
       "has_diamond": "2025-02-05 07:21:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite": {
+    "criteria": {
+      "has_quartz": "2025-02-06 05:06:49 +0000"
     },
     "done": true
   },
@@ -3328,6 +3394,12 @@
   "minecraft:recipes/decorations/end_crystal": {
     "criteria": {
       "has_ender_eye": "2025-02-05 21:47:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2025-02-06 05:06:39 +0000"
     },
     "done": true
   },
@@ -4051,6 +4123,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/quartz_block": {
+    "criteria": {
+      "has_quartz": "2025-02-06 05:06:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/dark_oak_pressure_plate": {
     "criteria": {
       "has_planks": "2025-02-05 08:05:30 +0000"
@@ -4228,6 +4306,12 @@
   "create:recipes/create.base/crafting/kinetics/windmill_bearing": {
     "criteria": {
       "has_item": "2025-02-06 03:08:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/daylight_detector": {
+    "criteria": {
+      "has_quartz": "2025-02-06 05:06:49 +0000"
     },
     "done": true
   },
