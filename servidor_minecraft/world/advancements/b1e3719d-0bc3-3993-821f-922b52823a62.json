@@ -883,6 +883,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_basalt_from_basalt_stonecutting": {
+    "criteria": {
+      "has_basalt": "2025-02-06 22:16:20 +0000"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/immersiveengineering/crafting/plate_iron_hammering": {
     "criteria": {
       "has_iron_ingot": "2025-02-05 20:24:04 +0000"
@@ -3995,6 +4001,12 @@
   "create:recipes/create.palettes/acacia_window": {
     "criteria": {
       "has_ingredient": "2025-02-06 03:40:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_basalt": {
+    "criteria": {
+      "has_basalt": "2025-02-06 22:16:20 +0000"
     },
     "done": true
   },
