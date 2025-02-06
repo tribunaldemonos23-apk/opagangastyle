@@ -101,6 +101,12 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/immersiveengineering/crafting/ingot_nickel_to_nugget_nickel": {
+    "criteria": {
+      "has_ingot_nickel": "2025-02-06 22:43:35 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/materials/sand_paper": {
     "criteria": {
       "has_item": "2025-02-05 20:34:45 +0000"
@@ -766,6 +772,12 @@
   "minecraft:recipes/redstone/iron_trapdoor": {
     "criteria": {
       "has_iron_ingot": "2025-02-05 22:00:13 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/materials/copper_block_from_compacting": {
+    "criteria": {
+      "has_item": "2025-02-06 22:41:44 +0000"
     },
     "done": true
   },
@@ -1838,6 +1850,12 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/materials/copper_nugget_from_decompacting": {
+    "criteria": {
+      "has_item": "2025-02-06 22:41:44 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/limestone_cobblestone_slab": {
     "criteria": {
       "has_limestone_cobblestone": "2025-02-05 23:26:08 +0000"
@@ -2458,6 +2476,12 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/immersiveengineering/crafting/earmuffs": {
+    "criteria": {
+      "has_iron_rod": "2025-02-06 22:43:35 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/kinetics/purple_seat": {
     "criteria": {
       "has_wool": "2025-02-05 21:40:19 +0000"
@@ -3031,6 +3055,12 @@
   "create:recipes/create.base/smelting/zinc_ingot_from_ore": {
     "criteria": {
       "has_item": "2025-02-06 08:15:51 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/immersiveengineering/crafting/nugget_nickel_to_ingot_nickel": {
+    "criteria": {
+      "has_nugget_nickel": "2025-02-06 22:43:35 +0000"
     },
     "done": true
   },
